@@ -1,0 +1,2 @@
+K:\DP13\Source Code\Adapter\obj\Debug\Adapter.exe
+K:\DP13\Source Code\Adapter\obj\Debug\Adapter.pdb
